@@ -1,3 +1,11 @@
+
+Bluepy is now Bluepysnap ! : https://github.com/BlueBrain/snap
+==============================================================
+
+This repository is not maintained anymore.
+
+
+
 .. include:: _common.rst
 
 Bluepy documentation
