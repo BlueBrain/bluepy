@@ -1,12 +1,12 @@
 .. include:: _common.rst
 
-|name| documentation
+Bluepy documentation
 ====================
 
 Introduction
 ------------
 
-|name| is a Python library for accessing BlueBrain circuit models.
+Bluepy is a Python library for accessing BlueBrain circuit models.
 The main two interface classes exposed are ``Circuit`` and ``Simulation``.
 
 ``Circuit`` corresponds to the *static* structure of a neural network, i.e.:
