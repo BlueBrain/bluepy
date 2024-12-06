@@ -1,0 +1,13 @@
+Target Cell Y {
+    a3 a4 Q
+}
+
+Target Cell X {
+    a1 a2
+}
+
+Target Cell Q {
+}
+
+Target Compartment Empty {
+}

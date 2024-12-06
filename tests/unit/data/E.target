@@ -1,0 +1,20 @@
+Target
+  Compartment
+A
+{
+    a1 a2
+}
+
+Target
+  Compartment
+B
+{
+    a9999
+}
+
+Target
+  Compartment
+C
+{
+    a0
+}

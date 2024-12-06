@@ -1,0 +1,13 @@
+Run Default
+{
+    CircuitPath circuit-path
+    nrnPath nrn-path
+    MorphologyPath morph-path
+    METypePath metype-path
+    MEComboInfoFile mecombo_emodel.tsv
+    CellLibraryFile circuit.mvd3
+    TargetFile aaa.target
+    BioName foo
+    Atlas bar
+    OutputRoot foobar
+}

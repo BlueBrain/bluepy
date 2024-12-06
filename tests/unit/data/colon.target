@@ -1,0 +1,17 @@
+Target Cell
+A
+{
+    a1 a2
+}
+
+Target Cell
+default:A
+{
+    a1 a3
+}
+
+Target Cell
+default2:A
+{
+    a1
+}

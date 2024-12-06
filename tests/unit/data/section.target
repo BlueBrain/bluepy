@@ -1,0 +1,61 @@
+Target Section single_cell
+{
+a1 axon
+}
+
+Target Compartment axon_comp_mosaic_others
+{
+    axon_comp_mosaic other
+}
+
+Target Compartment axon_comp_mosaic
+{
+    mosaic_axon
+}
+
+Target Section  mosaic_soma
+{
+    mosaic soma
+}
+
+
+Target Section  mosaic_axon
+{
+    mosaic axon
+}
+
+
+Target Cell mosaic
+{
+a1 a2
+}
+
+Target Cell other
+{
+a3 a4
+}
+
+Target Section mosaic_other_soma
+{
+    mosaic other soma
+}
+
+Target Section mosaic_3_soma
+{
+    mosaic a3 soma
+}
+
+Target Section two_cells_soma
+{
+    a1 a2 soma
+}
+
+Target Section mosaic_axon_soma
+{
+    mosaic axon soma
+}
+
+Target Section soma
+{
+   soma
+}
